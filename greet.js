@@ -1,4 +1,3 @@
-// Function to display a greeting
 function greet(name) {
     return `Hello, ${name}! Welcome to the JavaScript project.`;
 }
