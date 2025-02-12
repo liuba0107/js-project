@@ -4,4 +4,4 @@ function greet(name) {
 
 // Example usage
 const userName = "User";
-console.log(greet(userName));
+console.log(greet(userName)); 
