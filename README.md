@@ -1,2 +1,1 @@
 # js-project
-js-project
