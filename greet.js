@@ -1,5 +1,5 @@
 function greet(name) {
-    return `Hello, ${name}! Welcome to the JavaScript project.`;
+    return `Hello, ${name}! Welcome to the JavaScript project!`;
 }
 
 // Example usage
